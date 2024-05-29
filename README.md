@@ -16,6 +16,7 @@
 ## 👨🏻‍💻 About the project
 
 > Hello, I would like to share the social media project I built using Spring Boot and React.js.
+
 > In this application, which I created based on a Twitter-like design. Users can create posts, see other posts and interact with each other. Using Spring Security, I enabled each requesting user to log in with Authorization information and the generated JWt token.
 > I used Mysql as database
 > I tried to create my Entity, Repository, Service and Controller layers according to OOP-SOLID principles.
