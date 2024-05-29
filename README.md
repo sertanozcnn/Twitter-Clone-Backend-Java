@@ -1,5 +1,5 @@
 <h3 align="center">
-  Twitter Clone Backend
+  Twitter Clone Java Backend
 </h3>
 
 
